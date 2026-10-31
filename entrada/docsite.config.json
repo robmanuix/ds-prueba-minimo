@@ -1,0 +1,19 @@
+{
+  "cliente": "Cliente prueba",
+  "marca": "Cliente prueba",
+  "base": "calma",
+  "plataformas": [
+    "web",
+    "ios"
+  ],
+  "version": "1.0.0",
+  "generado": "2026-10-31",
+  "archivoFigma": "DSGBR (Copy)",
+  "colores": [
+    {
+      "nombre": "Brand",
+      "hex": "#3366E6"
+    }
+  ],
+  "tipografia": ""
+}
